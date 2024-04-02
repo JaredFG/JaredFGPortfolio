@@ -4,14 +4,19 @@
     "titles": ["Game Developer", "Front-End Developer"],
     "social": [
       {
-        "name": "github",
+        "name": "Github",
         "url": "https://github.com",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
+        "name": "Itch.io",
         "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "class": "fab fa-itch-io"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
@@ -29,29 +34,14 @@
         "level": "95"
       },
       {
-        "name": "Angular",
-        "class": "devicon-angularjs-plain",
-        "level": "80"
-      },
-      {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
-      },
-      {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
         "level": "70"
       },
       {
-        "name": "Sass",
-        "class": "devicon-sass-original",
-        "level": "75"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
+        "name": "Unity",
+        "class": "devicon-unity-plain",
+        "level": "80"
       },
       {
         "name": "C#",
@@ -62,6 +52,26 @@
         "name": "MySql",
         "class": "devicon-mysql-plain",
         "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "50"
+      },
+      {
+        "name": "Canva",
+        "class": "devicon-canva-original",
+        "level": "40"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original",
+        "level": "40"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "40"
       }
     ]
   }
