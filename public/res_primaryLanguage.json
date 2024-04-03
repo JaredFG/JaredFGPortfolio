@@ -188,5 +188,21 @@
         "Itch.io"
       ]
     }
-  ]
+  ],
+  "Courses": {
+    "courses": [
+      {
+        "name": "Game Development",
+        "school": "Udemy",
+        "date": "2020",
+        "url": "https://www.udemy.com"
+      },
+      {
+        "name": "Game Development",
+        "school": "Udemy",
+        "date": "2020",
+        "url": "https://www.udemy.com"
+      }
+    ]
+  }
 }

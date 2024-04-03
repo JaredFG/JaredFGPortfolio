@@ -48,14 +48,13 @@ class Header extends Component {
         style={{
           height: window.innerHeight - 140,
           display: "block",
-
           backgroundImage: `url(${Photo})`,
           backgroundSize: "contain", // Cambia a 'contain' para evitar estiramiento
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat", // Asegúrate de que la imagen no se repita
         }}
       >
-        <div className="row aligner" style={{ height: "25%" }}>
+        <div className="row aligner" style={{ marginTop: "-90px" }}>
           <div className="col-md-12">
             <div>
               <br />
