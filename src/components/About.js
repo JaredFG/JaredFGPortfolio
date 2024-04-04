@@ -30,7 +30,7 @@ class About extends Component {
                 className="profile-pic"
                 src={profilepic}
                 alt="profilepic"
-                style={{ width: "300px", height: "300px" }}
+                style={{ width: "150px", height: "200px" }}
               />
             </div>
 

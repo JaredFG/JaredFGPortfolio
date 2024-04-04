@@ -36,12 +36,7 @@
       "title": "Ayudando Ando",
       "startDate": "2023",
       "description": "In a magical world populated by cats gifted with alchemical abilities, Whiskerius, a young cat alchemist with great potential, embarks on an epic journey to master the arts of alchemy and magic. Guided by the wisdom of his teacher, the ancient alchemist Felisander, Whiskerius sets out to travel through various magical settings to discover legendary recipes and face obstacles that will help him become a master alchemist.",
-      "images": [
-        "images/portfolio/KittyAlchemy/KA1.png",
-        "images/portfolio/KittyAlchemy/KA4.png",
-        "images/portfolio/KittyAlchemy/KA2.png",
-        "images/portfolio/KittyAlchemy/KA3.png"
-      ],
+      "images": ["images/portfolio/AyudandoAndo/A1.PNG"],
       "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
       "technologies": [
         {
@@ -58,12 +53,7 @@
       "title": "Shatter the Skies",
       "startDate": "2023",
       "description": "In a magical world populated by cats gifted with alchemical abilities, Whiskerius, a young cat alchemist with great potential, embarks on an epic journey to master the arts of alchemy and magic. Guided by the wisdom of his teacher, the ancient alchemist Felisander, Whiskerius sets out to travel through various magical settings to discover legendary recipes and face obstacles that will help him become a master alchemist.",
-      "images": [
-        "images/portfolio/KittyAlchemy/KA1.png",
-        "images/portfolio/KittyAlchemy/KA4.png",
-        "images/portfolio/KittyAlchemy/KA2.png",
-        "images/portfolio/KittyAlchemy/KA3.png"
-      ],
+      "images": ["images/portfolio/ShatterTheSkies/S1.png"],
       "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
       "technologies": [
         {
@@ -80,12 +70,7 @@
       "title": "Survival",
       "startDate": "2023",
       "description": "In a magical world populated by cats gifted with alchemical abilities, Whiskerius, a young cat alchemist with great potential, embarks on an epic journey to master the arts of alchemy and magic. Guided by the wisdom of his teacher, the ancient alchemist Felisander, Whiskerius sets out to travel through various magical settings to discover legendary recipes and face obstacles that will help him become a master alchemist.",
-      "images": [
-        "images/portfolio/KittyAlchemy/KA1.png",
-        "images/portfolio/KittyAlchemy/KA4.png",
-        "images/portfolio/KittyAlchemy/KA2.png",
-        "images/portfolio/KittyAlchemy/KA3.png"
-      ],
+      "images": ["images/portfolio/Survival/SS1.png"],
       "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
       "technologies": [
         {
@@ -99,15 +84,10 @@
       ]
     },
     {
-      "title": "Esdraz",
+      "title": "Esdraz: \nThe Throne Of Darkness",
       "startDate": "2023",
       "description": "In a magical world populated by cats gifted with alchemical abilities, Whiskerius, a young cat alchemist with great potential, embarks on an epic journey to master the arts of alchemy and magic. Guided by the wisdom of his teacher, the ancient alchemist Felisander, Whiskerius sets out to travel through various magical settings to discover legendary recipes and face obstacles that will help him become a master alchemist.",
-      "images": [
-        "images/portfolio/KittyAlchemy/KA1.png",
-        "images/portfolio/KittyAlchemy/KA4.png",
-        "images/portfolio/KittyAlchemy/KA2.png",
-        "images/portfolio/KittyAlchemy/KA3.png"
-      ],
+      "images": ["images/portfolio/Esdraz/E1.png"],
       "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
       "technologies": [
         {
@@ -124,12 +104,7 @@
       "title": "Heist Breakout",
       "startDate": "2023",
       "description": "In a magical world populated by cats gifted with alchemical abilities, Whiskerius, a young cat alchemist with great potential, embarks on an epic journey to master the arts of alchemy and magic. Guided by the wisdom of his teacher, the ancient alchemist Felisander, Whiskerius sets out to travel through various magical settings to discover legendary recipes and face obstacles that will help him become a master alchemist.",
-      "images": [
-        "images/portfolio/KittyAlchemy/KA1.png",
-        "images/portfolio/KittyAlchemy/KA4.png",
-        "images/portfolio/KittyAlchemy/KA2.png",
-        "images/portfolio/KittyAlchemy/KA3.png"
-      ],
+      "images": ["images/portfolio/HeistBreakout/H1.png"],
       "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
       "technologies": [
         {
