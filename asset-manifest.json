@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/JaredFGPortfolio/static/css/main.0faf4ff0.chunk.css",
-    "main.js": "/JaredFGPortfolio/static/js/main.5104f872.chunk.js",
-    "main.js.map": "/JaredFGPortfolio/static/js/main.5104f872.chunk.js.map",
-    "runtime-main.js": "/JaredFGPortfolio/static/js/runtime-main.899bd72d.js",
-    "runtime-main.js.map": "/JaredFGPortfolio/static/js/runtime-main.899bd72d.js.map",
+    "main.js": "/JaredFGPortfolio/static/js/main.7cd5c306.chunk.js",
+    "main.js.map": "/JaredFGPortfolio/static/js/main.7cd5c306.chunk.js.map",
+    "runtime-main.js": "/JaredFGPortfolio/static/js/runtime-main.44d516e6.js",
+    "runtime-main.js.map": "/JaredFGPortfolio/static/js/runtime-main.44d516e6.js.map",
     "static/css/2.d64471e2.chunk.css": "/JaredFGPortfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.607a1682.chunk.js": "/JaredFGPortfolio/static/js/2.607a1682.chunk.js",
-    "static/js/2.607a1682.chunk.js.map": "/JaredFGPortfolio/static/js/2.607a1682.chunk.js.map",
+    "static/js/2.65102d12.chunk.js": "/JaredFGPortfolio/static/js/2.65102d12.chunk.js",
+    "static/js/2.65102d12.chunk.js.map": "/JaredFGPortfolio/static/js/2.65102d12.chunk.js.map",
     "index.html": "/JaredFGPortfolio/index.html",
-    "precache-manifest.2527d32a0097b5e1a7753abc2cfcb7d7.js": "/JaredFGPortfolio/precache-manifest.2527d32a0097b5e1a7753abc2cfcb7d7.js",
+    "precache-manifest.135388a449fe794cf4b013e26aaceba0.js": "/JaredFGPortfolio/precache-manifest.135388a449fe794cf4b013e26aaceba0.js",
     "service-worker.js": "/JaredFGPortfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/JaredFGPortfolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.0faf4ff0.chunk.css.map": "/JaredFGPortfolio/static/css/main.0faf4ff0.chunk.css.map",
-    "static/js/2.607a1682.chunk.js.LICENSE.txt": "/JaredFGPortfolio/static/js/2.607a1682.chunk.js.LICENSE.txt",
+    "static/js/2.65102d12.chunk.js.LICENSE.txt": "/JaredFGPortfolio/static/js/2.65102d12.chunk.js.LICENSE.txt",
     "static/media/BannerPrincipal.png": "/JaredFGPortfolio/static/media/BannerPrincipal.dd60c5ec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.899bd72d.js",
+    "static/js/runtime-main.44d516e6.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.607a1682.chunk.js",
+    "static/js/2.65102d12.chunk.js",
     "static/css/main.0faf4ff0.chunk.css",
-    "static/js/main.5104f872.chunk.js"
+    "static/js/main.7cd5c306.chunk.js"
   ]
 }
