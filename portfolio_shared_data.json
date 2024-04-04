@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "name": "Jared Flores",
+    "titles": ["Game Developer", "Front-End Developer"],
+    "social": [
+      {
+        "name": "Github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "Itch.io",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-itch-io"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "Jared.png"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Unity",
+        "class": "devicon-unity-plain",
+        "level": "80"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "50"
+      },
+      {
+        "name": "Canva",
+        "class": "devicon-canva-original",
+        "level": "40"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original",
+        "level": "40"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "40"
+      }
+    ]
+  }
+}

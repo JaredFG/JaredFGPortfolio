@@ -1,0 +1,287 @@
+{
+  "basic_info": {
+    "description_header": "Hi :D",
+    "description": "Hey there! I'm Jared Flores, and I'm all about creating awesome video games! 🎮 As a video game developer and systems engineer, I'm constantly immersed in the world of game development. 💼🚀 As the director of PB Studios, a game incubator within the Pixel Borregos team at Tec de Monterrey, I have the privilege of channeling this passion into innovative projects. And hey, seeing players enjoy what we create? That's the ultimate reward! 🌟 So, if you're as passionate about gaming as I am, let's connect and create something extraordinary together! 🎉",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Kitty Alchemy",
+      "startDate": "2024",
+      "description": "In a magical world populated by cats gifted with alchemical abilities, Whiskerius, a young cat alchemist with great potential, embarks on an epic journey to master the arts of alchemy and magic. Guided by the wisdom of his teacher, the ancient alchemist Felisander, Whiskerius sets out to travel through various magical settings to discover legendary recipes and face obstacles that will help him become a master alchemist.",
+      "images": [
+        "images/portfolio/KittyAlchemy/KA1.png",
+        "images/portfolio/KittyAlchemy/KA4.png",
+        "images/portfolio/KittyAlchemy/KA2.png",
+        "images/portfolio/KittyAlchemy/KA3.png"
+      ],
+      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Ayudando Ando",
+      "startDate": "2024",
+      "description": "Fun 3D game made in Unity with Apple's AR technology, where an operator and a user come together to resolve technical conflicts at home In this game, there are two roles, the operator and the user, the user has a problem at home (his toilet has been clogged), so with the help of the operator, through AR, he will be able to follow the instructions with the that the operator's technical manual will tell. The operator is far away so all communication will be done remotely, by call, discord, even yelling at each other in the distance, whatever is necessary to be able to communicate and resolve the problem in time.",
+      "images": [
+        "images/portfolio/AyudandoAndo/A1.PNG",
+        "images/portfolio/AyudandoAndo/A2.PNG",
+        "images/portfolio/AyudandoAndo/A3.PNG",
+        "images/portfolio/AyudandoAndo/A4.PNG",
+        "images/portfolio/AyudandoAndo/A5.PNG"
+      ],
+      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Shatter the Skies",
+      "startDate": "2024",
+      "description": "Alone and afraid in an unforgiving land, Ceteri must gather her courage to ascend the Rot and save not only her people, but the entire world. Use your trusty cape and staff to traverse the perils of the Rot by jumping, dashing and grappling your way up its roots and the many foes you'll encounter along the way. Discover more about the fate of the world by finding Stone slabs along the way and give the spirits of your ancestors peace by leading them to a Sanctuary. Its up to you to find out in the adventure platformer Shatter the skies. ",
+      "images": [
+        "images/portfolio/ShatterTheSkies/S1.png",
+        "images/portfolio/ShatterTheSkies/S2.png",
+        "images/portfolio/ShatterTheSkies/S3.png"
+      ],
+      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Survival",
+      "startDate": "2023",
+      "description": "On behalf of a Novus project called Sostek we present Survival A first-person game where you are the mayor of a city and the objective is to solve daily tasks in order to better manage resources. You have to take good care of your resources in order to achieve a sustainable balance in your city. The objective of the game is to promote sustainability among young people and help them to know about the consequences of their actions, both economically and in environmental and social terms.",
+      "images": [
+        "images/portfolio/Survival/SS1.png",
+        "images/portfolio/Survival/SS2.png",
+        "images/portfolio/Survival/SS3.png",
+        "images/portfolio/Survival/SS4.png"
+      ],
+      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Esdraz: \nThe Throne Of Darkness",
+      "startDate": "2023",
+      "description": "Esdraz: The Throne Of Darkness is a metroidvania focused on a dynamic combat system where the player can choose from a large arsenal of weapons the combinations that best suit their playing style. Face different enemies and bosses, devising the best strategy to win.",
+      "images": [
+        "images/portfolio/Esdraz/E1.png",
+        "images/portfolio/Esdraz/E2.png",
+        "images/portfolio/Esdraz/E3.png"
+      ],
+      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Heist Breakout",
+      "startDate": "2023",
+      "description": "Heist Breakout is a game where being stealthy is what matters most, you infiltrate a museum and you must evade obstacles and enemies to achieve the main objective of the mission, steal the most valuable treasure. Will you be able to go unnoticed?",
+      "images": ["images/portfolio/HeistBreakout/H1.png"],
+      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "ICHI Services",
+      "title": "RPA Developer",
+      "years": "03.2022 - 03.2023",
+      "mainTech": ["Rocketbot, Power Automate, UiPath"],
+      "technologies": ["Rocketbot", "Power Automate", "UiPath", "RPA", "Python"]
+    },
+    {
+      "company": "Tec de Monterrey",
+      "title": "Game Developer intern",
+      "years": "04.2023 - 07.2023",
+      "mainTech": ["Unity", "C#"],
+      "technologies": ["Unity", "C#", "Game Development", "Trello"]
+    },
+    {
+      "company": "Word Games Studio",
+      "title": "Game Programmer",
+      "years": "08.2023 - 01.2024",
+      "mainTech": ["Unity", "C#"],
+      "technologies": ["Unity", "C#", "Game Development", "Trello"]
+    },
+    {
+      "company": "BetterMind Games",
+      "title": "Lead Game Programmer",
+      "years": "03.2024 - present",
+      "mainTech": ["Unity", "C#"],
+      "technologies": ["Unity", "C#", "Game Development", "Trello"]
+    },
+    {
+      "company": "PB Studios",
+      "title": "Director",
+      "years": "08.2023 - present",
+      "mainTech": ["Unity"],
+      "technologies": [
+        "Unity",
+        "C#",
+        "Game Development",
+        "ClickUp",
+        "Trello",
+        "LinkedIn",
+        "HTML",
+        "Itch.io"
+      ]
+    }
+  ],
+  "Courses": {
+    "header": "Certifications",
+    "courses": [
+      {
+        "name": "Unity Mobile AR Development",
+        "school": "Unity",
+        "date": "2024",
+        "url": "https://www.credly.com/badges/5240c1e1-b8a9-4439-89c6-71fa30b307be/linked_in_profile"
+      },
+      {
+        "name": "Unity Essentials Pathway",
+        "school": "Unity",
+        "date": "2023",
+        "url": "https://www.credly.com/badges/b1d37cc2-29f7-409b-a522-a1ace3466bba/linked_in_profile"
+      },
+      {
+        "name": "Unity Junior Programmer",
+        "school": "Unity",
+        "date": "2023",
+        "url": "https://www.credly.com/badges/779dc008-1995-48c0-90b4-4ac1683e3871/linked_in_profile"
+      },
+      {
+        "name": "Fundamentos del desarrollo web: Full Stack o Front-end",
+        "school": "LinkedIn",
+        "date": "2023",
+        "url": "https://www.linkedin.com/learning/certificates/49bad0afb933b0636ac48e08bf7671f08ae3c76da2d67d273ef087b3e0ce8c14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bj76XQcSvR2WQcSIEbn7l9w%3D%3D"
+      },
+      {
+        "name": "Aprende Unity: Primeros juegos",
+        "school": "LinkedIn",
+        "date": "2023",
+        "url": "https://www.linkedin.com/learning/certificates/9e05cf1cc17b60d93bb6005fa84f401cc8e37fea159f4c287542976f29fc04b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bj76XQcSvR2WQcSIEbn7l9w%3D%3D"
+      },
+      {
+        "name": "Introduction to C++ Programming and Unreal",
+        "school": "Coursera",
+        "date": "2022",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/KDBBKT94P49N"
+      },
+      {
+        "name": "Introduction to HTML5",
+        "school": "Coursera",
+        "date": "2022",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/ARJWJV9VEQB2"
+      },
+      {
+        "name": "Programa Especializado - Game Design and Development with Unity 2020",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/ZSUFNLFUWPPE"
+      },
+      {
+        "name": "Game Design and Development 5: Capstone Project",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/SHUR9HL2DP7M"
+      },
+      {
+        "name": "Game Design and Development 4: 3D Platformer",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/547AJ8B6Y4TP"
+      },
+      {
+        "name": "Game Design and Development 3: 3D Shooter",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/BXS795QLZRBG"
+      },
+      {
+        "name": "Game Design and Development 2: 2D Platformer",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/FUJRBSNK2M3L"
+      },
+      {
+        "name": "Game Design and Development 1: 2D Shooter",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/FFPEEURJ3WAP"
+      },
+      {
+        "name": "Introducción a Unity para videojuegos 2D",
+        "school": "Domestika",
+        "date": "2021",
+        "url": ""
+      },
+      {
+        "name": "Introduction to C# Programming and Unity",
+        "school": "Coursera",
+        "date": "2021",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/YFBAG6GKAFZP"
+      },
+      {
+        "name": "Bot Builder Rocketbot Expert level 1",
+        "school": "Rocketbot",
+        "date": "2022",
+        "url": "https://certificate.rocketbot.co/badges/6bef2f21-3684-4126-6923-723c09b57340"
+      }
+    ]
+  }
+}
