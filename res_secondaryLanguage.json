@@ -37,11 +37,11 @@
       "startDate": "2024",
       "description": "Divertido juego 3D realizado en Unity con la tecnología AR de Apple, donde un operador y un usuario se unen para resolver conflictos técnicos en casa. En este juego hay dos roles, el operador y el usuario, el usuario tiene un problema en casa (su baño se ha obstruido), por lo que con la ayuda del operador, a través de AR, podrá seguir las instrucciones que le indicará el manual técnico del operador. El operador se encuentra lejos por lo que toda comunicación se hará de forma remota, mediante llamada, discordia, incluso gritándose a la distancia, lo que sea necesario para poder comunicarse y resolver el problema a tiempo.",
       "images": [
-        "images/portfolio/AyudandoAndo/A1.PNG",
-        "images/portfolio/AyudandoAndo/A2.PNG",
-        "images/portfolio/AyudandoAndo/A3.PNG",
-        "images/portfolio/AyudandoAndo/A4.PNG",
-        "images/portfolio/AyudandoAndo/A5.PNG"
+        "images/portfolio/AyudandoAndo/A1.png",
+        "images/portfolio/AyudandoAndo/A2.png",
+        "images/portfolio/AyudandoAndo/A3.png",
+        "images/portfolio/AyudandoAndo/A4.png",
+        "images/portfolio/AyudandoAndo/A5.png"
       ],
       "url": "https://jaredfg.itch.io/ayudando-ando",
       "technologies": [
