@@ -5,17 +5,17 @@
     "social": [
       {
         "name": "Github",
-        "url": "https://github.com",
+        "url": "https://jaredfg.github.io/JaredFGPortfolio/",
         "class": "fab fa-github"
       },
       {
         "name": "Itch.io",
-        "url": "https://www.instagram.com",
+        "url": "https://jaredfg.itch.io",
         "class": "fab fa-itch-io"
       },
       {
         "name": "Linkedin",
-        "url": "https://www.instagram.com",
+        "url": "https://www.linkedin.com/in/jared-abraham-flores-guarneros-5515a0191/",
         "class": "fab fa-linkedin"
       }
     ],

@@ -9,8 +9,7 @@ class ExperienceGrid extends Component {
 
     if (this.props.resumeCourses && this.props.resumeBasicInfo) {
       // Verificar si existe una propiedad específica para el nombre de la sección de cursos, si no, usar "Courses"
-      sectionName =
-        this.props.resumeBasicInfo.section_name.courses || "Courses";
+      sectionName = this.props.resumeCourses.header || "Certifications";
       coursesList = this.props.resumeCourses.courses.map((course, index) => (
         <Col key={index} md={4} className="mb-4">
           <Card className="h-100">

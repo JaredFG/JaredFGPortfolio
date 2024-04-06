@@ -1,5 +1,6 @@
 {
-  "name": "react-frontend-dev-portfolio",
+  "name": "dev-portfolio",
+  "homepage": "https://JaredFG.github.io/JaredFGPortfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
