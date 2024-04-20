@@ -20,7 +20,7 @@
         "images/portfolio/KittyAlchemy/KA2.png",
         "images/portfolio/KittyAlchemy/KA3.png"
       ],
-      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "url": "https://jaredfg.itch.io/kitty-alchemy",
       "technologies": [
         {
           "class": "devicon-unity-plain",
@@ -43,7 +43,7 @@
         "images/portfolio/AyudandoAndo/A4.png",
         "images/portfolio/AyudandoAndo/A5.png"
       ],
-      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "url": "https://jaredfg.itch.io/ayudando-ando",
       "technologies": [
         {
           "class": "devicon-unity-plain",
@@ -64,7 +64,7 @@
         "images/portfolio/ShatterTheSkies/S2.png",
         "images/portfolio/ShatterTheSkies/S3.png"
       ],
-      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "url": "https://pixelborregosstudios.itch.io/shatter-the-skies",
       "technologies": [
         {
           "class": "devicon-unity-plain",
@@ -86,7 +86,7 @@
         "images/portfolio/Survival/SS3.png",
         "images/portfolio/Survival/SS4.png"
       ],
-      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "url": "https://jaredfg.itch.io/survival",
       "technologies": [
         {
           "class": "devicon-unity-plain",
@@ -107,7 +107,7 @@
         "images/portfolio/Esdraz/E2.png",
         "images/portfolio/Esdraz/E3.png"
       ],
-      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "url": "https://store.steampowered.com/app/2175670/ESDRAZ_THE_THRONE_OF_DARKNESS/",
       "technologies": [
         {
           "class": "devicon-unity-plain",
@@ -124,7 +124,7 @@
       "startDate": "2023",
       "description": "Heist Breakout is a game where being stealthy is what matters most, you infiltrate a museum and you must evade obstacles and enemies to achieve the main objective of the mission, steal the most valuable treasure. Will you be able to go unnoticed?",
       "images": ["images/portfolio/HeistBreakout/H1.png"],
-      "url": "https://jaredfg.itch.io/kitty-alchemy-demo",
+      "url": "https://latinumgames.itch.io/heist-breakout",
       "technologies": [
         {
           "class": "devicon-unity-plain",
