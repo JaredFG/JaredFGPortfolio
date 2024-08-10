@@ -170,7 +170,7 @@
       "company": "PB Studios",
       "title": "Director de incubadora de juegos",
       "years": "08.2023 - 07.2024",
-      "mainTech": ["Unity"],
+      "mainTech": ["Unity", "C#"],
       "technologies": [
         "Unity",
         "C#",
@@ -186,7 +186,7 @@
       "company": "AT7 Studios | Jaguar Games",
       "title": "Desarrollador de juegos en Unity",
       "years": "07.2023 - present",
-      "mainTech": ["Unity"],
+      "mainTech": ["Unity", "C#"],
       "technologies": [
         "Unity",
         "C#",
