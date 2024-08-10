@@ -181,6 +181,20 @@
         "HTML",
         "Itch.io"
       ]
+    },
+    {
+      "company": "AT7 Studios | Jaguar Games",
+      "title": "Desarrollador de juegos en Unity",
+      "years": "07.2023 - present",
+      "mainTech": ["Unity"],
+      "technologies": [
+        "Unity",
+        "C#",
+        "Game Development",
+        "HTML",
+        "Asana",
+        "Plastic SCM"
+      ]
     }
   ],
   "Courses": {
