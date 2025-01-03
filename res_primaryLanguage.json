@@ -10,28 +10,49 @@
         }
     },
     "projects": [
-      {
-        "title": "CyberStrike",
-        "startDate": "2024",
-        "description": "Cyberstrike is a frenetic top-down shooter set in a cyberpunk Mexico, where players combine strategic combat, hacking and exploration to take on oppressive corporations, tech gangs and rebel guerrillas.",
-        "images": [
-            "images/portfolio/Cyberstrike/CY1.png",
-            "images/portfolio/Cyberstrike/CY2.png",
-            "images/portfolio/Cyberstrike/CY3.png",
-            "images/portfolio/Cyberstrike/CY4.png"
-        ],
-        "url": "https://jaredfg.itch.io/cyberstrike",
-        "technologies": [
-            {
-                "class": "devicon-unity-plain",
-                "name": "Unity"
-            },
-            {
-                "class": "devicon-csharp-plain",
-                "name": "C#"
-            }
-        ]
-    },
+        {
+            "title": "Find your way",
+            "startDate": "2024",
+            "description": "Find Your Way is a relaxation game that combines music, lights, and art to create a unique experience of calm and serenity. Through a series of immersive puzzles, players can dive into a peaceful world where each challenge is designed to promote focus and well-being. With a soothing atmosphere and harmonious visuals, the game invites players to disconnect and embark on a journey of relaxation and self-exploration.",
+            "images": [
+                "images/portfolio/FindYourWay/FY1.png",
+                "images/portfolio/FindYourWay/FY2.png",
+                "images/portfolio/FindYourWay/FY3.png"
+            ],
+            "url": "",
+            "technologies": [
+                {
+                    "class": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        },
+        {
+            "title": "CyberStrike",
+            "startDate": "2024",
+            "description": "Cyberstrike is a frenetic top-down shooter set in a cyberpunk Mexico, where players combine strategic combat, hacking and exploration to take on oppressive corporations, tech gangs and rebel guerrillas.",
+            "images": [
+                "images/portfolio/Cyberstrike/CY1.png",
+                "images/portfolio/Cyberstrike/CY2.png",
+                "images/portfolio/Cyberstrike/CY3.png",
+                "images/portfolio/Cyberstrike/CY4.png"
+            ],
+            "url": "https://jaredfg.itch.io/cyberstrike",
+            "technologies": [
+                {
+                    "class": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        },
         {
             "title": "Kitty Alchemy",
             "startDate": "2024",
@@ -158,7 +179,6 @@
                 }
             ]
         }
-        
     ],
     "experience": [
         {
