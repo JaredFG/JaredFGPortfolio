@@ -14,7 +14,12 @@
             "title": "CyberStrike",
             "startDate": "2024",
             "description": "Cyberstrike es un frenético juego de disparos topdown ambientado en un México ciberpunk, donde los jugadores combinan combate estratégico, piratería y exploración para enfrentarse a corporaciones opresivas, bandas tecnológicas y guerrillas rebeldes.",
-            "images": ["images/portfolio/CyberStrike/CY1.png"],
+            "images": [
+                "images/portfolio/Cyberstrike/CY1.png",
+                "images/portfolio/Cyberstrike/CY2.png",
+                "images/portfolio/Cyberstrike/CY3.png",
+                "images/portfolio/Cyberstrike/CY4.png"
+            ],
             "url": "https://jaredfg.itch.io/cyberstrike",
             "technologies": [
                 {
