@@ -135,6 +135,23 @@
           "name": "C#"
         }
       ]
+    },
+    {
+      "title": "CyberStrike",
+      "startDate": "2024",
+      "description": "Cyberstrike is a frenetic top-down shooter set in a cyberpunk Mexico, where players combine strategic combat, hacking and exploration to take on oppressive corporations, tech gangs and rebel guerrillas.",
+      "images": ["images/portfolio/CyberStrike/CY1.png"],
+      "url": "https://jaredfg.itch.io/cyberstrike",
+      "technologies": [
+        {
+          "class": "devicon-unity-plain",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     }
   ],
   "experience": [
