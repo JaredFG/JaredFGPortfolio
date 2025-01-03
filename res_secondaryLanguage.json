@@ -11,6 +11,23 @@
     },
     "projects": [
         {
+            "title": "CyberStrike",
+            "startDate": "2024",
+            "description": "Cyberstrike es un frenético juego de disparos topdown ambientado en un México ciberpunk, donde los jugadores combinan combate estratégico, piratería y exploración para enfrentarse a corporaciones opresivas, bandas tecnológicas y guerrillas rebeldes.",
+            "images": ["images/portfolio/CyberStrike/CY1.png"],
+            "url": "https://jaredfg.itch.io/cyberstrike",
+            "technologies": [
+                {
+                    "class": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        },
+        {
             "title": "Kitty Alchemy",
             "startDate": "2024",
             "description": "En un mundo mágico poblado por gatos dotados de habilidades alquímicas, Whiskerius, un joven gato alquimista con un gran potencial, se embarca en un viaje épico para dominar las artes de la alquimia y la magia. Guiado por la sabiduría de su maestro, el antiguo alquimista Felisander, Whiskerius se propone viajar a través de diversos escenarios mágicos para descubrir recetas legendarias y enfrentar obstáculos que lo ayudarán a convertirse en un maestro alquimista.",
@@ -125,23 +142,6 @@
             "description": "Heist Breakout es un juego donde ser sigiloso es lo más importante, te infiltras en un museo y debes evadir obstáculos y enemigos para lograr el objetivo principal de la misión, robar el tesoro más valioso. ¿Podrás pasar desapercibido?",
             "images": ["images/portfolio/HeistBreakout/H1.png"],
             "url": "https://latinumgames.itch.io/heist-breakout",
-            "technologies": [
-                {
-                    "class": "devicon-unity-plain",
-                    "name": "Unity"
-                },
-                {
-                    "class": "devicon-csharp-plain",
-                    "name": "C#"
-                }
-            ]
-        },
-        {
-            "title": "CyberStrike",
-            "startDate": "2024",
-            "description": "Cyberstrike es un frenético juego de disparos topdown ambientado en un México ciberpunk, donde los jugadores combinan combate estratégico, piratería y exploración para enfrentarse a corporaciones opresivas, bandas tecnológicas y guerrillas rebeldes.",
-            "images": ["images/portfolio/CyberStrike/CY1.png"],
-            "url": "https://jaredfg.itch.io/cyberstrike",
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
