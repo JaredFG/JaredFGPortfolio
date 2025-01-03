@@ -1,26 +1,14 @@
 {
   "files": {
-    "main.css": "/JaredFGPortfolio/static/css/main.0faf4ff0.chunk.css",
-    "main.js": "/JaredFGPortfolio/static/js/main.7cd5c306.chunk.js",
-    "main.js.map": "/JaredFGPortfolio/static/js/main.7cd5c306.chunk.js.map",
-    "runtime-main.js": "/JaredFGPortfolio/static/js/runtime-main.44d516e6.js",
-    "runtime-main.js.map": "/JaredFGPortfolio/static/js/runtime-main.44d516e6.js.map",
-    "static/css/2.d64471e2.chunk.css": "/JaredFGPortfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.65102d12.chunk.js": "/JaredFGPortfolio/static/js/2.65102d12.chunk.js",
-    "static/js/2.65102d12.chunk.js.map": "/JaredFGPortfolio/static/js/2.65102d12.chunk.js.map",
+    "main.css": "/JaredFGPortfolio/static/css/main.6ec9ffea.css",
+    "main.js": "/JaredFGPortfolio/static/js/main.13296faa.js",
+    "static/media/BannerPrincipal.png": "/JaredFGPortfolio/static/media/BannerPrincipal.3367f44f32d4486d13aa.png",
     "index.html": "/JaredFGPortfolio/index.html",
-    "precache-manifest.32436c2e126da99ddf9207a7f36002a2.js": "/JaredFGPortfolio/precache-manifest.32436c2e126da99ddf9207a7f36002a2.js",
-    "service-worker.js": "/JaredFGPortfolio/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/JaredFGPortfolio/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.0faf4ff0.chunk.css.map": "/JaredFGPortfolio/static/css/main.0faf4ff0.chunk.css.map",
-    "static/js/2.65102d12.chunk.js.LICENSE.txt": "/JaredFGPortfolio/static/js/2.65102d12.chunk.js.LICENSE.txt",
-    "static/media/BannerPrincipal.png": "/JaredFGPortfolio/static/media/BannerPrincipal.dd60c5ec.png"
+    "main.6ec9ffea.css.map": "/JaredFGPortfolio/static/css/main.6ec9ffea.css.map",
+    "main.13296faa.js.map": "/JaredFGPortfolio/static/js/main.13296faa.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.44d516e6.js",
-    "static/css/2.d64471e2.chunk.css",
-    "static/js/2.65102d12.chunk.js",
-    "static/css/main.0faf4ff0.chunk.css",
-    "static/js/main.7cd5c306.chunk.js"
+    "static/css/main.6ec9ffea.css",
+    "static/js/main.13296faa.js"
   ]
 }
