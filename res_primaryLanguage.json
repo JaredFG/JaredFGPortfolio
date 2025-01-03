@@ -11,6 +11,28 @@
     },
     "projects": [
         {
+            "title": "Dream of Darkness",
+            "startDate": "2024",
+            "description": "Dream of Darkness is a unique gaming experience that will take you on an exciting journey through the fall of the Aztec Empire like you've never imagined before. If you're a fan of horror games and have a passion for Mexican history, you're about to embark on an immersive adventure that will leave you breathless.",
+            "images": [
+                "images/portfolio/DreamOfDarkness/dod1.png",
+                "images/portfolio/DreamOfDarkness/dod2.png",
+                "images/portfolio/DreamOfDarkness/dod3.png",
+                "images/portfolio/DreamOfDarkness/dod4.png"
+            ],
+            "url": "https://www.dreamofdarkness.com",
+            "technologies": [
+                {
+                    "class": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        },
+        {
             "title": "Find your way",
             "startDate": "2024",
             "description": "Find Your Way is a relaxation game that combines music, lights, and art to create a unique experience of calm and serenity. Through a series of immersive puzzles, players can dive into a peaceful world where each challenge is designed to promote focus and well-being. With a soothing atmosphere and harmonious visuals, the game invites players to disconnect and embark on a journey of relaxation and self-exploration.",
