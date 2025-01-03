@@ -233,14 +233,14 @@
         {
             "company": "BetterMind Games",
             "title": "Lead Game Programmer",
-            "years": "03.2024 - present",
+            "years": "03.2024 - 07.2024",
             "mainTech": ["Unity", "C#"],
             "technologies": ["Unity", "C#", "Game Development", "Trello"]
         },
         {
             "company": "PB Studios",
             "title": "Director",
-            "years": "08.2023 - present",
+            "years": "08.2023 - 06.2024",
             "mainTech": ["Unity"],
             "technologies": [
                 "Unity",
@@ -248,6 +248,23 @@
                 "Game Development",
                 "ClickUp",
                 "Trello",
+                "LinkedIn",
+                "HTML",
+                "Itch.io"
+            ]
+        }
+        ,
+        {
+            "company": "AT7 Studio || Jaguar Games", 
+            "title": "Gameplay Programmer",
+            "years": "07.2024 - present",
+            "mainTech": ["Unity"],
+            "technologies": [
+                "Unity",
+                "C#",
+                "Game Development",
+                "Plastic SCM",
+                "Asana",
                 "LinkedIn",
                 "HTML",
                 "Itch.io"
