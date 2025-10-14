@@ -309,11 +309,18 @@
             ]
         },
         {
+            "company": "Woznics",
+            "title": "Software Developer (Unity & Web)",
+            "years": "01.2025 - present",
+            "mainTech": ["Unity", "Web"],
+            "technologies": ["Unity", "C#", "HTML"]
+        },
+        {
             "company": "Pixel Perfect Studio",
             "title": "Programador de Gameplay",
             "years": "05.2025 - present",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Desarrollo de videojuegos"]
+            "technologies": ["Unity", "C#"]
         }
     ],
     "Courses": {
