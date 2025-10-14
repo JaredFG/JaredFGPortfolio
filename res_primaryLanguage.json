@@ -195,6 +195,7 @@
             "description": "Heist Breakout is a game where being stealthy is what matters most, you infiltrate a museum and you must evade obstacles and enemies to achieve the main objective of the mission, steal the most valuable treasure. Will you be able to go unnoticed?",
             "images": ["images/portfolio/HeistBreakout/H1.png"],
             "url": "https://latinumgames.itch.io/heist-breakout",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -257,10 +258,9 @@
                 "HTML",
                 "Itch.io"
             ]
-        }
-        ,
+        },
         {
-            "company": "AT7 Studio | Jaguar Games", 
+            "company": "AT7 Studio | Jaguar Games",
             "title": "Gameplay Programmer",
             "years": "07.2024 - present",
             "mainTech": ["Unity"],
