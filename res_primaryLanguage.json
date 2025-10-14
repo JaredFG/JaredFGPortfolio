@@ -264,14 +264,16 @@
             "title": "Game Programmer",
             "years": "08.2023 - 01.2024",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Game Development", "Trello"]
+            "technologies": ["Unity", "C#", "Game Development", "Trello"],
+            "hidden": true
         },
         {
             "company": "BetterMind Games",
             "title": "Lead Game Programmer",
             "years": "03.2024 - 07.2024",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Game Development", "Trello"]
+            "technologies": ["Unity", "C#", "Game Development", "Trello"],
+            "hidden": true
         },
         {
             "company": "PB Studios",
@@ -287,7 +289,8 @@
                 "LinkedIn",
                 "HTML",
                 "Itch.io"
-            ]
+            ],
+            "hidden": true
         },
         {
             "company": "AT7 Studio | Jaguar Games",
@@ -303,6 +306,18 @@
                 "LinkedIn",
                 "HTML",
                 "Itch.io"
+            ]
+        },
+        {
+            "company": "Pixel Perfect Studio",
+            "title": "Gameplay Programmer",
+            "years": "05.2025 - present",
+            "mainTech": ["Unity", "C#"],
+            "technologies": [
+                "Unity",
+                "C#",
+                "Game Development"
+             
             ]
         }
     ],
