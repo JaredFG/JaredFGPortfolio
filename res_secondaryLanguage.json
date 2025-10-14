@@ -42,6 +42,7 @@
                 "images/portfolio/FindYourWay/FYW3.png"
             ],
             "url": "",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -64,6 +65,7 @@
                 "images/portfolio/Cyberstrike/CY4.png"
             ],
             "url": "https://jaredfg.itch.io/cyberstrike",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -109,6 +111,7 @@
                 "images/portfolio/AyudandoAndo/A5.png"
             ],
             "url": "https://jaredfg.itch.io/ayudando-ando",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -130,6 +133,7 @@
                 "images/portfolio/ShatterTheSkies/S3.png"
             ],
             "url": "https://pixelborregosstudios.itch.io/shatter-the-skies",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -152,6 +156,7 @@
                 "images/portfolio/Survival/SS4.png"
             ],
             "url": "https://jaredfg.itch.io/survival",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
