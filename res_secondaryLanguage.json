@@ -206,6 +206,36 @@
                     "name": "C#"
                 }
             ]
+        },
+        {
+            "title": "Future Vibe Check",
+            "startDate": "2025",
+            "description": "Future Vibe Check es un juego de automatización musical donde tus fábricas no solo elaboran artículos: también producen música. El Infinito te ha convocado para reconstruir la realidad. El anhelo de optimización eterna se sublimará en sonido. Automatiza la vibra. Defiéndela. Sé la vibra.",
+            "images": [
+                "images/portfolio/FutureVibeCheck/FVC1.jpg",
+                "images/portfolio/FutureVibeCheck/FVC2.jpg",
+                "images/portfolio/FutureVibeCheck/FVC3.jpg"
+            ],
+            "url": "https://store.steampowered.com/app/3525890/Future_Vibe_Check",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
+            ]
+        },
+        {
+            "title": "Om Nom’s Picture Collection",
+            "startDate": "2025",
+            "description": "Om Nom’s Picture Collection es un juego educativo de rompecabezas que combina el encanto del universo de Om Nom con el aprendizaje basado en juegos. A través de divertidos desafíos basados en física, los jugadores exploran cómo se mueve y transforma la energía: desde el movimiento mecánico hasta la electricidad, el sonido y la luz. Con un Modo Historia que enseña conceptos clave paso a paso y un Modo Práctica para la exploración libre y el dominio, convierte el aprendizaje en una aventura interactiva.",
+            "images": [
+                "images/portfolio/OmNomPictureCollection/ONPC1.gif",
+                "images/portfolio/OmNomPictureCollection/ONPC2.webp",
+                "images/portfolio/OmNomPictureCollection/ONPC3.webp"
+            ],
+            "url": "https://www.pixelperfectstudio.mx/2025/10/08/om-noms-picture-collection",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
+            ]
         }
     ],
     "experience": [

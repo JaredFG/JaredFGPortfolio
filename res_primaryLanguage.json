@@ -206,6 +206,36 @@
                     "name": "C#"
                 }
             ]
+        },
+        {
+            "title": "Future Vibe Check",
+            "startDate": "2025",
+            "description": "Future Vibe Check is a musical automation game where your factories don’t just craft items — they also produce music. The Infinite has summoned you to rebuild reality. The longing for eternal optimization will sublimate into sound. Automate the vibe. Defend it. Be the vibe.",
+            "images": [
+                "images/portfolio/FutureVibeCheck/FVC1.jpg",
+                "images/portfolio/FutureVibeCheck/FVC2.jpg",
+                "images/portfolio/FutureVibeCheck/FVC3.jpg"
+            ],
+            "url": "https://store.steampowered.com/app/3525890/Future_Vibe_Check",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
+            ]
+        },
+        {
+            "title": "Om Nom’s Picture Collection",
+            "startDate": "2025",
+            "description": "Om Nom’s Picture Collection is an engaging educational puzzle game that blends the charm of the Om Nom universe with game-based learning. Through fun, physics-driven challenges, players explore how energy moves and transforms — from mechanical motion to electricity, sound, and light. With a Story Mode teaching key science concepts step-by-step and a Practice Mode for free exploration and mastery, it turns learning into an interactive adventure.",
+            "images": [
+                "images/portfolio/OmNomPictureCollection/ONPC1.gif",
+                "images/portfolio/OmNomPictureCollection/ONPC2.webp",
+                "images/portfolio/OmNomPictureCollection/ONPC3.webp"
+            ],
+            "url": "https://www.pixelperfectstudio.mx/2025/10/08/om-noms-picture-collection",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
+            ]
         }
     ],
     "experience": [
