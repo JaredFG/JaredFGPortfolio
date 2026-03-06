@@ -1,7 +1,7 @@
 {
     "basic_info": {
         "description_header": "Hi :D",
-        "description": "Hi! I'm Jared Flores, and I specialize in creating video games! 🎮 As a game developer and systems engineer, I'm deeply immersed in the exciting world of game development. 💼🚀 As a freelancer, I collaborate with a talented team at AT7 Studio and Jaguar Games, working on innovative and thrilling projects. And you know what? Seeing players enjoy what we create is the greatest reward. 🌟 If you're passionate about video games, let's connect and create something amazing together! 🎉",
+        "description": "Hi! I'm Jared Flores, and I specialize in creating video games! 🎮 I'm a game developer and systems engineer immersed in the world of game development. 💼🚀 I currently collaborate at AT7 Studio | Jaguar Games as a Gameplay Programmer, at Woznics as a Software Developer (Unity & Web) building features, web integrations and tools. As a freelancer, I love teaming up on innovative, exciting projects. And you know what? Seeing people enjoy what we create is the best reward. 🌟 If you're passionate about games, let's connect and build something awesome together! 🎉",
         "section_name": {
             "about": "About me",
             "projects": "Projects",
@@ -42,6 +42,7 @@
                 "images/portfolio/FindYourWay/FYW3.png"
             ],
             "url": "",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -64,6 +65,7 @@
                 "images/portfolio/Cyberstrike/CY4.png"
             ],
             "url": "https://jaredfg.itch.io/cyberstrike",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -109,6 +111,7 @@
                 "images/portfolio/AyudandoAndo/A5.png"
             ],
             "url": "https://jaredfg.itch.io/ayudando-ando",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -130,6 +133,7 @@
                 "images/portfolio/ShatterTheSkies/S3.png"
             ],
             "url": "https://pixelborregosstudios.itch.io/shatter-the-skies",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -152,6 +156,7 @@
                 "images/portfolio/Survival/SS4.png"
             ],
             "url": "https://jaredfg.itch.io/survival",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -190,6 +195,7 @@
             "description": "Heist Breakout is a game where being stealthy is what matters most, you infiltrate a museum and you must evade obstacles and enemies to achieve the main objective of the mission, steal the most valuable treasure. Will you be able to go unnoticed?",
             "images": ["images/portfolio/HeistBreakout/H1.png"],
             "url": "https://latinumgames.itch.io/heist-breakout",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -199,6 +205,36 @@
                     "class": "devicon-csharp-plain",
                     "name": "C#"
                 }
+            ]
+        },
+        {
+            "title": "Future Vibe Check",
+            "startDate": "2025",
+            "description": "Future Vibe Check is a musical automation game where your factories don’t just craft items — they also produce music. The Infinite has summoned you to rebuild reality. The longing for eternal optimization will sublimate into sound. Automate the vibe. Defend it. Be the vibe.",
+            "images": [
+                "images/portfolio/FutureVibeCheck/FVC1.jpg",
+                "images/portfolio/FutureVibeCheck/FVC2.jpg",
+                "images/portfolio/FutureVibeCheck/FVC3.jpg"
+            ],
+            "url": "https://store.steampowered.com/app/3525890/Future_Vibe_Check",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
+            ]
+        },
+        {
+            "title": "Om Nom’s Picture Collection",
+            "startDate": "2025",
+            "description": "Om Nom’s Picture Collection is an engaging educational puzzle game that blends the charm of the Om Nom universe with game-based learning. Through fun, physics-driven challenges, players explore how energy moves and transforms — from mechanical motion to electricity, sound, and light. With a Story Mode teaching key science concepts step-by-step and a Practice Mode for free exploration and mastery, it turns learning into an interactive adventure.",
+            "images": [
+                "images/portfolio/OmNomPictureCollection/ONPC1.gif",
+                "images/portfolio/OmNomPictureCollection/ONPC2.webp",
+                "images/portfolio/OmNomPictureCollection/ONPC3.webp"
+            ],
+            "url": "https://www.pixelperfectstudio.mx/2025/10/08/om-noms-picture-collection",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
             ]
         }
     ],
@@ -228,14 +264,16 @@
             "title": "Game Programmer",
             "years": "08.2023 - 01.2024",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Game Development", "Trello"]
+            "technologies": ["Unity", "C#", "Game Development", "Trello"],
+            "hidden": true
         },
         {
             "company": "BetterMind Games",
             "title": "Lead Game Programmer",
             "years": "03.2024 - 07.2024",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Game Development", "Trello"]
+            "technologies": ["Unity", "C#", "Game Development", "Trello"],
+            "hidden": true
         },
         {
             "company": "PB Studios",
@@ -251,11 +289,11 @@
                 "LinkedIn",
                 "HTML",
                 "Itch.io"
-            ]
-        }
-        ,
+            ],
+            "hidden": true
+        },
         {
-            "company": "AT7 Studio | Jaguar Games", 
+            "company": "AT7 Studio | Jaguar Games",
             "title": "Gameplay Programmer",
             "years": "07.2024 - present",
             "mainTech": ["Unity"],
@@ -269,6 +307,20 @@
                 "HTML",
                 "Itch.io"
             ]
+        },
+        {
+            "company": "Woznics",
+            "title": "Software Developer (Unity & Web)",
+            "years": "01.2025 - present",
+            "mainTech": ["Unity", "Web"],
+            "technologies": ["Unity", "C#", "HTML"]
+        },
+        {
+            "company": "Pixel Perfect Studio",
+            "title": "Gameplay Programmer",
+            "years": "05.2025 - 01.2026",
+            "mainTech": ["Unity", "C#"],
+            "technologies": ["Unity", "C#"]
         }
     ],
     "Courses": {
