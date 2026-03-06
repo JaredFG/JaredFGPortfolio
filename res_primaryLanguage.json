@@ -293,6 +293,13 @@
             "hidden": true
         },
         {
+            "company": "Pixel Perfect Studio",
+            "title": "Gameplay Programmer",
+            "years": "05.2025 - 01.2026",
+            "mainTech": ["Unity", "C#"],
+            "technologies": ["Unity", "C#"]
+        },
+        {
             "company": "AT7 Studio | Jaguar Games",
             "title": "Gameplay Programmer",
             "years": "07.2024 - present",
@@ -314,13 +321,6 @@
             "years": "01.2025 - present",
             "mainTech": ["Unity", "Web"],
             "technologies": ["Unity", "C#", "HTML"]
-        },
-        {
-            "company": "Pixel Perfect Studio",
-            "title": "Gameplay Programmer",
-            "years": "05.2025 - 01.2026",
-            "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#"]
         }
     ],
     "Courses": {
