@@ -1,7 +1,7 @@
 {
     "basic_info": {
         "description_header": "Hola :D",
-        "description": "¡Hola! ¡Soy Jared Flores y me dedico a crear videojuegos! 🎮 Como desarrollador de videojuegos e ingeniero de sistemas, estoy inmerso en el apasionante mundo del desarrollo de juegos. 💼🚀 Como freelancer, trabajo con un equipo talentoso en AT7 Studio y Jaguar Games, colaborando en proyectos innovadores y emocionantes. Y, ¿sabías qué? Ver a los jugadores disfrutar de lo que creamos es la mayor recompensa. 🌟 Si los videojuegos son tu pasión, ¡conectemos y hagamos algo increíble juntos! 🎉",
+        "description": "¡Hola! ¡Soy Jared Flores y me dedico a crear videojuegos! 🎮 Como desarrollador de videojuegos e ingeniero de sistemas, estoy inmerso en el apasionante mundo del desarrollo de juegos. 💼🚀 Actualmente colaboro en AT7 Studio | Jaguar Games como Gameplay Programmer, en Woznics como Software Developer (Unity & Web) creando features, integraciones web y herramientas. Como freelancer, trabajo con equipos talentosos en proyectos innovadores y emocionantes. Y, ¿sabes? Ver a las personas disfrutar lo que creamos es la mayor recompensa. 🌟 Si los videojuegos son tu pasión, ¡conectemos y hagamos algo increíble juntos! 🎉",
         "section_name": {
             "about": "Sobre mí",
             "projects": "Proyectos",
@@ -13,7 +13,7 @@
         {
             "title": "Dream of Darkness",
             "startDate": "2024",
-            "description": "Dream of Darkness es una experiencia de juego única que te llevará a un emocionante viaje a través de la caída del Imperio Azteca como nunca antes lo habías imaginado. Si eres fanático de los juegos de terror y tienes pasión por la historia mexicana, estás a punto de embarcarte en una aventura inmersiva que te dejará sin aliento.",
+            "description": "Dream of Darkness is a unique gaming experience that will take you on an exciting journey through the fall of the Aztec Empire like you've never imagined before. If you're a fan of horror games and have a passion for Mexican history, you're about to embark on an immersive adventure that will leave you breathless.",
             "images": [
                 "images/portfolio/DreamOfDarkness/dod1.png",
                 "images/portfolio/DreamOfDarkness/dod2.png",
@@ -42,6 +42,29 @@
                 "images/portfolio/FindYourWay/FYW3.png"
             ],
             "url": "",
+            "hidden": true,
+            "technologies": [
+                {
+                    "class": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        },
+        {
+            "title": "Find your way",
+            "startDate": "2024",
+            "description": "Find Your Way es un juego de relajación que fusiona música, luces y arte para ofrecer una experiencia única de calma y serenidad. A través de una serie de puzzles envolventes, los jugadores pueden sumergirse en un mundo tranquilo donde cada desafío está diseñado para fomentar la concentración y el bienestar. Con una atmósfera relajante y visuales armoniosos, el juego invita a desconectar y disfrutar de un viaje de relajación y autoexploración.",
+            "images": [
+                "images/portfolio/FindYourWay/FYW1.png",
+                "images/portfolio/FindYourWay/FYW2.png",
+                "images/portfolio/FindYourWay/FYW3.png"
+            ],
+            "url": "",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -64,6 +87,7 @@
                 "images/portfolio/Cyberstrike/CY4.png"
             ],
             "url": "https://jaredfg.itch.io/cyberstrike",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -109,6 +133,7 @@
                 "images/portfolio/AyudandoAndo/A5.png"
             ],
             "url": "https://jaredfg.itch.io/ayudando-ando",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -130,6 +155,7 @@
                 "images/portfolio/ShatterTheSkies/S3.png"
             ],
             "url": "https://pixelborregosstudios.itch.io/shatter-the-skies",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -152,6 +178,7 @@
                 "images/portfolio/Survival/SS4.png"
             ],
             "url": "https://jaredfg.itch.io/survival",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -190,6 +217,7 @@
             "description": "Heist Breakout es un juego donde ser sigiloso es lo más importante, te infiltras en un museo y debes evadir obstáculos y enemigos para lograr el objetivo principal de la misión, robar el tesoro más valioso. ¿Podrás pasar desapercibido?",
             "images": ["images/portfolio/HeistBreakout/H1.png"],
             "url": "https://latinumgames.itch.io/heist-breakout",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
@@ -199,6 +227,36 @@
                     "class": "devicon-csharp-plain",
                     "name": "C#"
                 }
+            ]
+        },
+        {
+            "title": "Future Vibe Check",
+            "startDate": "2025",
+            "description": "Future Vibe Check es un juego de automatización musical donde tus fábricas no solo elaboran artículos: también producen música. El Infinito te ha convocado para reconstruir la realidad. El anhelo de optimización eterna se sublimará en sonido. Automatiza la vibra. Defiéndela. Sé la vibra.",
+            "images": [
+                "images/portfolio/FutureVibeCheck/FVC1.jpg",
+                "images/portfolio/FutureVibeCheck/FVC2.jpg",
+                "images/portfolio/FutureVibeCheck/FVC3.jpg"
+            ],
+            "url": "https://store.steampowered.com/app/3525890/Future_Vibe_Check",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
+            ]
+        },
+        {
+            "title": "Om Nom’s Picture Collection",
+            "startDate": "2025",
+            "description": "Om Nom’s Picture Collection es un juego educativo de rompecabezas que combina el encanto del universo de Om Nom con el aprendizaje basado en juegos. A través de divertidos desafíos basados en física, los jugadores exploran cómo se mueve y transforma la energía: desde el movimiento mecánico hasta la electricidad, el sonido y la luz. Con un Modo Historia que enseña conceptos clave paso a paso y un Modo Práctica para la exploración libre y el dominio, convierte el aprendizaje en una aventura interactiva.",
+            "images": [
+                "images/portfolio/OmNomPictureCollection/ONPC1.gif",
+                "images/portfolio/OmNomPictureCollection/ONPC2.webp",
+                "images/portfolio/OmNomPictureCollection/ONPC3.webp"
+            ],
+            "url": "https://www.pixelperfectstudio.mx/2025/10/08/om-noms-picture-collection",
+            "technologies": [
+                { "class": "devicon-unity-plain", "name": "Unity" },
+                { "class": "devicon-csharp-plain", "name": "C#" }
             ]
         }
     ],
@@ -228,14 +286,16 @@
             "title": "Programador de videojuegos",
             "years": "08.2023 - 01.2024",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Game Development", "Trello"]
+            "technologies": ["Unity", "C#", "Game Development", "Trello"],
+            "hidden": true
         },
         {
             "company": "BetterMind Games",
             "title": "Programador principal de juegos",
             "years": "03.2024 - 07.2024",
             "mainTech": ["Unity", "C#"],
-            "technologies": ["Unity", "C#", "Game Development", "Trello"]
+            "technologies": ["Unity", "C#", "Game Development", "Trello"],
+            "hidden": true
         },
         {
             "company": "PB Studios",
@@ -251,10 +311,11 @@
                 "LinkedIn",
                 "HTML",
                 "Itch.io"
-            ]
+            ],
+            "hidden": true
         },
         {
-            "company": "AT7 Studio | Jaguar Games", 
+            "company": "AT7 Studio | Jaguar Games",
             "title": "Programador de Gameplay",
             "years": "07.2024 - present",
             "mainTech": ["Unity"],
@@ -268,6 +329,20 @@
                 "HTML",
                 "Itch.io"
             ]
+        },
+        {
+            "company": "Woznics",
+            "title": "Software Developer (Unity & Web)",
+            "years": "01.2025 - present",
+            "mainTech": ["Unity", "Web"],
+            "technologies": ["Unity", "C#", "HTML"]
+        },
+        {
+            "company": "Pixel Perfect Studio",
+            "title": "Programador de Gameplay",
+            "years": "05.2025 - present",
+            "mainTech": ["Unity", "C#"],
+            "technologies": ["Unity", "C#"]
         }
     ],
     "Courses": {
