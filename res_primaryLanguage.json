@@ -1,7 +1,7 @@
 {
     "basic_info": {
         "description_header": "Hi :D",
-        "description": "Hi! I'm Jared Flores, and I specialize in creating video games! 🎮 I'm a game developer and systems engineer immersed in the world of game development. 💼🚀 I currently collaborate at AT7 Studio | Jaguar Games as a Gameplay Programmer, at Woznics as a Software Developer (Unity & Web) building features, web integrations and tools, and at Pixel Perfect Studio crafting educational experiences with Unity. As a freelancer, I love teaming up on innovative, exciting projects. And you know what? Seeing people enjoy what we create is the best reward. 🌟 If you're passionate about games, let's connect and build something awesome together! 🎉",
+        "description": "Hi! I'm Jared Flores, and I specialize in creating video games! 🎮 I'm a game developer and systems engineer immersed in the world of game development. 💼🚀 I currently collaborate at AT7 Studio | Jaguar Games as a Gameplay Programmer, at Woznics as a Software Developer (Unity & Web) building features, web integrations and tools. As a freelancer, I love teaming up on innovative, exciting projects. And you know what? Seeing people enjoy what we create is the best reward. 🌟 If you're passionate about games, let's connect and build something awesome together! 🎉",
         "section_name": {
             "about": "About me",
             "projects": "Projects",
@@ -318,7 +318,7 @@
         {
             "company": "Pixel Perfect Studio",
             "title": "Gameplay Programmer",
-            "years": "05.2025 - present",
+            "years": "05.2025 - 01.2026",
             "mainTech": ["Unity", "C#"],
             "technologies": ["Unity", "C#"]
         }

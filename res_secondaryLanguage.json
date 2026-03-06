@@ -1,7 +1,7 @@
 {
     "basic_info": {
         "description_header": "Hola :D",
-        "description": "¡Hola! ¡Soy Jared Flores y me dedico a crear videojuegos! 🎮 Como desarrollador de videojuegos e ingeniero de sistemas, estoy inmerso en el apasionante mundo del desarrollo de juegos. 💼🚀 Actualmente colaboro en AT7 Studio | Jaguar Games como Gameplay Programmer, en Woznics como Software Developer (Unity & Web) creando features, integraciones web y herramientas, y en Pixel Perfect Studio desarrollando experiencias educativas con Unity. Como freelancer, trabajo con equipos talentosos en proyectos innovadores y emocionantes. Y, ¿sabes? Ver a las personas disfrutar lo que creamos es la mayor recompensa. 🌟 Si los videojuegos son tu pasión, ¡conectemos y hagamos algo increíble juntos! 🎉",
+        "description": "¡Hola! ¡Soy Jared Flores y me dedico a crear videojuegos! 🎮 Como desarrollador de videojuegos e ingeniero de sistemas, estoy inmerso en el apasionante mundo del desarrollo de juegos. 💼🚀 Actualmente colaboro en AT7 Studio | Jaguar Games como Gameplay Programmer, en Woznics como Software Developer (Unity & Web) creando features, integraciones web y herramientas. Como freelancer, trabajo con equipos talentosos en proyectos innovadores y emocionantes. Y, ¿sabes? Ver a las personas disfrutar lo que creamos es la mayor recompensa. 🌟 Si los videojuegos son tu pasión, ¡conectemos y hagamos algo increíble juntos! 🎉",
         "section_name": {
             "about": "Sobre mí",
             "projects": "Proyectos",
@@ -13,7 +13,7 @@
         {
             "title": "Dream of Darkness",
             "startDate": "2024",
-            "description": "Dream of Darkness es una experiencia de juego única que te llevará a un emocionante viaje a través de la caída del Imperio Azteca como nunca antes lo habías imaginado. Si eres fanático de los juegos de terror y tienes pasión por la historia mexicana, estás a punto de embarcarte en una aventura inmersiva que te dejará sin aliento.",
+            "description": "Dream of Darkness is a unique gaming experience that will take you on an exciting journey through the fall of the Aztec Empire like you've never imagined before. If you're a fan of horror games and have a passion for Mexican history, you're about to embark on an immersive adventure that will leave you breathless.",
             "images": [
                 "images/portfolio/DreamOfDarkness/dod1.png",
                 "images/portfolio/DreamOfDarkness/dod2.png",
@@ -21,6 +21,28 @@
                 "images/portfolio/DreamOfDarkness/dod4.png"
             ],
             "url": "https://www.dreamofdarkness.com",
+            "technologies": [
+                {
+                    "class": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        },
+        {
+            "title": "Find your way",
+            "startDate": "2024",
+            "description": "Find Your Way es un juego de relajación que fusiona música, luces y arte para ofrecer una experiencia única de calma y serenidad. A través de una serie de puzzles envolventes, los jugadores pueden sumergirse en un mundo tranquilo donde cada desafío está diseñado para fomentar la concentración y el bienestar. Con una atmósfera relajante y visuales armoniosos, el juego invita a desconectar y disfrutar de un viaje de relajación y autoexploración.",
+            "images": [
+                "images/portfolio/FindYourWay/FYW1.png",
+                "images/portfolio/FindYourWay/FYW2.png",
+                "images/portfolio/FindYourWay/FYW3.png"
+            ],
+            "url": "",
+            "hidden": true,
             "technologies": [
                 {
                     "class": "devicon-unity-plain",
