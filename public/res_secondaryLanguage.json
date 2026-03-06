@@ -41,36 +41,36 @@
                 "images/portfolio/FindYourWay/FYW2.png",
                 "images/portfolio/FindYourWay/FYW3.png"
             ],
-            "url": "",
-            "hidden": true,
-            "technologies": [
-                {
-                    "class": "devicon-unity-plain",
-                    "name": "Unity"
-                },
-                {
-                    "class": "devicon-csharp-plain",
-                    "name": "C#"
-                }
-            ]
-        },
-        {
-            "title": "Find your way",
-            "startDate": "2024",
-            "description": "Find Your Way es un juego de relajación que fusiona música, luces y arte para ofrecer una experiencia única de calma y serenidad. A través de una serie de puzzles envolventes, los jugadores pueden sumergirse en un mundo tranquilo donde cada desafío está diseñado para fomentar la concentración y el bienestar. Con una atmósfera relajante y visuales armoniosos, el juego invita a desconectar y disfrutar de un viaje de relajación y autoexploración.",
-            "images": [
-                "images/portfolio/FindYourWay/FYW1.png",
-                "images/portfolio/FindYourWay/FYW2.png",
-                "images/portfolio/FindYourWay/FYW3.png"
-            ],
-            "url": "",
-            "hidden": true,
-            "technologies": [
-                {
-                    "class": "devicon-unity-plain",
-                    "name": "Unity"
-                },
-                {
+            {
+                "company": "Pixel Perfect Studio",
+                "title": "Gameplay Programmer",
+                "years": "05.2025 - 01.2026",
+                "mainTech": ["Unity", "C#"],
+                "technologies": ["Unity", "C#"]
+            },
+            {
+                "company": "AT7 Studio | Jaguar Games",
+                "title": "Gameplay Programmer",
+                "years": "07.2024 - present",
+                "mainTech": ["Unity"],
+                "technologies": [
+                    "Unity",
+                    "C#",
+                    "Game Development",
+                    "Plastic SCM",
+                    "Asana",
+                    "LinkedIn",
+                    "HTML",
+                    "Itch.io"
+                ]
+            },
+            {
+                "company": "Woznics",
+                "title": "Software Developer (Unity & Web)",
+                "years": "01.2025 - present",
+                "mainTech": ["Unity", "Web"],
+                "technologies": ["Unity", "C#", "HTML"]
+            }
                     "class": "devicon-csharp-plain",
                     "name": "C#"
                 }
