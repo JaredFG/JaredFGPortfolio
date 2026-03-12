@@ -50,7 +50,7 @@ class Header extends Component {
           display: "block",
           backgroundImage: `url(${Photo})`,
           backgroundSize: "contain", // Cambia a 'contain' para evitar estiramiento
-          backgroundPosition: "center bottom",
+          backgroundPosition: "center 160px",
           backgroundRepeat: "no-repeat", // Asegúrate de que la imagen no se repita
         }}
       >
