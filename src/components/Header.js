@@ -49,7 +49,7 @@ class Header extends Component {
           height: window.innerHeight - 140,
           display: "block",
           backgroundImage: `url(${Photo})`,
-          backgroundSize: "contain", // Cambia a 'contain' para evitar estiramiento
+          backgroundSize: "auto calc(100% - 160px)",
           backgroundPosition: "center 160px",
           backgroundRepeat: "no-repeat", // Asegúrate de que la imagen no se repita
         }}
